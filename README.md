@@ -1,16 +1,16 @@
-### Hi there 👋
+### Welcome to wyq0918dev's GitHub (✿◡‿◡)👋
 
-<!--
-**wyq0918dev/wyq0918dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wyq0918dev&count_private=true&show_icons=true">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+````text
+Android工程师/开源项目Androntainer开发者
+某安钉子户区rom作者/Project Treble
+06年/16岁/处女座/高中牲
+MtF/XYN/无证含糖/🏳️‍⚧️🍥
+欢迎大佬交流技术/欢迎姐妹们贴贴～
+````
+````text
+Androntainer Project Team
+````
+### 友情链接:  
+[Androntainer Project](https://github.com/Androntainer)  
