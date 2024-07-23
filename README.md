@@ -16,4 +16,7 @@
 
 ---
 ### My organizations：  
-[Ecosed Platform](https://github.com/ecosed)  
+[EcosedApps](https://github.com/EcosedApps)  
+[EcosedLibrary](https://github.com/libecosed)  
+[TermPlux Project](https://github.com/TermPlux)  
+[Litmus OS](https://github.com/litmusos)  
